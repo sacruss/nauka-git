@@ -1,1 +1,4 @@
 /config/config.json
+/cache/*
+!/cache/.gitkeep
+.netbeans.xml
